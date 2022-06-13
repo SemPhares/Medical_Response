@@ -1,2 +1,6 @@
 id_rsa_medical_response
 id_rsa_medical_response.pub
+*.csv
+/catboost_info
+bioresponse.zip
+*.txt
